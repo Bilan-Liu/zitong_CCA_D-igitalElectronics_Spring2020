@@ -2,6 +2,7 @@
 For the midterm project， I want to make an animation with music.
 I want to make an animation of the cherry blossoms falling from a tree through processing. The size of the output sound is controlled by an infrared sensor and the speed at which the cherry blossoms fall through the humidity sensor.
 
+![img](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/digitialweek3/IMG_6433.jpg)
 
 Two input sensors: 
 Infrared sensor
