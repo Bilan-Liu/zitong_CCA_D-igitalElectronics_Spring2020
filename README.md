@@ -28,4 +28,6 @@ Interested Sensor:
 Leap motion
 Radar
 Weather Meter Kit
+## week 4
+![week4](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/week4.png)
 
