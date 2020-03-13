@@ -33,3 +33,7 @@ Weather Meter Kit
 ## week 5
 ![week5](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/week5.png)
 
+## week 6 7 midterm project
+！
+[week6 7](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/digital%20class.gif)
+
