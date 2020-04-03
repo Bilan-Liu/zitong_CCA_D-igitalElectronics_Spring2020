@@ -37,3 +37,6 @@ Weather Meter Kit
 ![week7](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/IMG_8629.jpg)
 ![week7](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/IMG_8630.jpg)
 ![week7](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/digital%20class.gif)
+
+## midterm Youtube link
+https://www.youtube.com/watch?v=PYehptGu4-w
