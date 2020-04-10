@@ -51,4 +51,4 @@ output sensor: fan  Processing
 
 I'll first use processing to create an animation as shown below
                 
-
+![img](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/tree.png)
