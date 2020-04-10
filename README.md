@@ -40,3 +40,6 @@ Weather Meter Kit
 
 ## midterm Youtube link
 https://www.youtube.com/watch?v=PYehptGu4-w
+
+## final project idea
+In the final project, I want to explore the combination of Arduino and Processing. So I want to continue with what I started this semester. I want to control the animation through physical action. In this project, I want to control the fan with a temperature sensor, and the faster the fan, the more petals of the cherry tree will fall in the animation.
