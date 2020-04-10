@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=PYehptGu4-w
 
 ## final project idea
 In the final project, I want to explore the combination of Arduino and Processing. So I want to continue with what I started this semester. I want to control the animation through physical action. In this project, I want to control the fan with a temperature sensor, and the faster the fan, the more petals of the cherry tree will fall in the animation.
-！[img](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/digitalclass%20final%20idea.jpg)
+![img](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/digitalclass%20final%20idea.jpg)
 
 input sensors:Humidity sensor
 Humidity sensor: fan 
