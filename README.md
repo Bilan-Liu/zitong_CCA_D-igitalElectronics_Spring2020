@@ -48,5 +48,7 @@ In the final project, I want to explore the combination of Arduino and Processin
 input sensors:Humidity sensor
 
 output sensor: fan  Processing
+
+I'll first use processing to create an animation as shown below
                 
 
