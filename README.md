@@ -46,6 +46,7 @@ In the final project, I want to explore the combination of Arduino and Processin
 ![img](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/digitalclass%20final%20idea.jpg)
 
 input sensors:Humidity sensor
-Humidity sensor: fan 
-                 Processing
+
+output sensor: fan  Processing
+                
 
