@@ -59,8 +59,8 @@ In the final project, I successfully combined Processing and Arduino. The idea o
 youtube link of final project：
 https://youtu.be/5YQKB6c6q78
 
-componet：
+component:
 ![img](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/IMG_9182.jpg)
 ![img](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/%E6%88%AA%E5%B1%8F2020-04-29%E4%B8%8A%E5%8D%884.11.49.png)
-
+I used these electronics for the final project. Potentiometer, fan, uno board and processing.
 
