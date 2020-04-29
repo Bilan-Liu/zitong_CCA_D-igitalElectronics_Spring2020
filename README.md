@@ -51,4 +51,11 @@ output sensor: fan  Processing
 
 I'll first use processing to create an animation as shown below
                 
-![img](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/tree.png)
+![img](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020/blob/master/tree.png
+
+## final project
+In the final project, I successfully combined Processing and Arduino. The idea of controlling Processing animation through Arduino is realized. But because I broke the temperature sensor, I could only use potentiometer to control it as a fan switch. When the fan is turned on, the processing trees fall. And when the fan is shut off, the cherry blossoms stop falling.
+
+youtube link of final project：
+https://youtu.be/5YQKB6c6q78
+
